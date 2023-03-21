@@ -8,8 +8,11 @@ followed [this](https://towardsdatascience.com/make-your-own-rick-sanchez-bot-wi
 
 there are some weird artifacts from when I scraped the unity files for the dialogue because idk i didn't feel like writing a regex expression that cleaned up all of the dialogue because I was lazy, probably
 
-(eg. "[wave] ... [/wave]"
+(eg. "[wave] ... [/wave]")
+
 ![image](https://user-images.githubusercontent.com/102627987/226751603-21b4a5e9-728e-4a2e-979c-036db3b801e9.png)
+
+
 
 it's still alright though, most of it is nonsense but it can still have its spotlight moments
 
@@ -24,4 +27,3 @@ it's still alright though, most of it is nonsense but it can still have its spot
 ![image](https://user-images.githubusercontent.com/102627987/226752048-d13ef4a9-09c9-4be9-a03f-ad20f2207773.png)
 
 ![image](https://user-images.githubusercontent.com/102627987/226752072-83c877cd-9721-4e10-a02b-de04cfccaaef.png)
-
